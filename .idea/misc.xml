@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/00TFM/workspace-tfm/injection" />
+    <file type="web" url="file://$PROJECT_DIR$/injection" />
+    <file type="web" url="file://$PROJECT_DIR$/injection.fixed.stage1" />
+    <file type="web" url="file://$PROJECT_DIR$/injection.fixed.stage2" />
+    <file type="web" url="file://$PROJECT_DIR$/injection.fixed.stage3" />
+    <file type="web" url="file://$PROJECT_DIR$/injection.fixed.stage4.wip" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/injection/pom.xml" />
+        <option value="$PROJECT_DIR$/injection.fixed.stage1/pom.xml" />
+        <option value="$PROJECT_DIR$/injection.fixed.stage2/pom.xml" />
+        <option value="$PROJECT_DIR$/injection.fixed.stage3/pom.xml" />
+        <option value="$PROJECT_DIR$/injection.fixed.stage4.wip/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

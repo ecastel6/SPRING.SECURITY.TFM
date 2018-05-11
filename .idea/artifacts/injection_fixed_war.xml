@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="injection.fixed:war">
+    <output-path>$PROJECT_DIR$/injection.fixed.stage1/target</output-path>
+    <root id="archive" name="injection.fixed.stage1.war">
+      <element id="artifact" artifact-name="injection.fixed:war exploded" />
+    </root>
+  </artifact>
+</component>
